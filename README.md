@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=220&section=header&text=Vishnu%20Phani%20Gattu&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38)
+![Nature-Tech Header](https://capsule-render.vercel.app/api?type=waving&color=0:3F5D41,50:66A182,100:FFE66D&height=220&section=header&text=VISHNU%20PHANI%20GATTU&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Nurturing%20the%20Digital%20Ecosystem%F0%9F%8C%B1&descAlignY=65)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=FC466B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;2x+Patent+Co-Inventor+%F0%9F%93%9C;473-Day+Coding+Streak+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=66A182&center=true&vCenter=true&width=650&lines=Rooted+in+Data+Science;Branching+into+ML+%26+Full+Stack;Nurturing+Ideas+into+Solutions;BioSync+AI.+%F0%9F%8C%B1" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gattuvishnuphani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuphani-gattu-0a2881294/)
