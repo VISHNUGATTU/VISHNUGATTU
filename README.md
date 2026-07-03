@@ -49,51 +49,6 @@ I'm a final-year B.Tech student (CSE – Data Science) at VNR VJIET who'd rather
 
 <br>
 
-## 📜 Patents & Research
-
-> Filed while still in college — because why wait?
-
-**💧 DripSense — IoT-Based System for Detecting and Alerting Hidden Water Leakages**
-Co-Inventor · Indian Patent Application No. `202541102840` · Published 28 Nov 2025
-An ESP32-powered leak-detection system using ultrasonic and flow sensors that flags abnormal water flow and pushes real-time alerts over Wi-Fi — before it becomes a flooded floor.
-
-**🎯 VisOra — AI-Based Automated Smart Attendance Recognition & Synchronization System**
-Co-Inventor · Indian Patent Application No. `202641036876` · Published 10 Apr 2026
-A CNN + infrared-sensing attendance system with event-driven activation and dual-layer verification, purpose-built to make proxy attendance impossible.
-
-<br>
-
-## 🚀 Featured Projects
-
-### 🎯 VisOra – Facial Recognition Attendance System
-📅 Jan 2026 &nbsp;·&nbsp; [https://github.com/VISHNUGATTU/VisOra_FullWorking](#)
-`ReactJS` `Node.js` `Express.js` `MongoDB` `OpenCV` `InsightFace` `Python`
-
-A full-stack MERN + Python platform that swaps roll-call for facial recognition.
-- Cosine-similarity face embedding matching for precise ID, even in crowded rooms
-- MongoDB architecture storing and retrieving daily records for **6,000+ active users**
-- Real-time OpenCV + InsightFace pipeline for low-latency detection
-- The tech behind this project is now backed by a filed patent application
-
-### 🥗 BioSync AI – Personalized Health Platform
-📅 Apr 2026 – Present &nbsp;·&nbsp; [https://github.com/VISHNUGATTU/BioSyncAI](#)
-`React Native` `Node.js` `Express.js` `MongoDB` `Python`
-
-An AI-driven health app that actually reads the label so you don't have to.
-- Processes **100+ food queries per session** against user-specific biological profiles
-- Secure REST APIs and optimized MongoDB schemas handling **1,000+ health records**
-- LLM-based risk evaluation hitting **>90% confidence** on dietary recommendations
-
-### 🧠 Nexus AI – AI-Powered Local Assistant
-📅 Mar 2026 &nbsp;·&nbsp; [https://github.com/VISHNUGATTU/nexus-ai](#)
-`Python` `Flask` `google-genai` `ReactJS` `MongoDB`
-
-A local AI execution engine that turns "hey, do this" into an actual OS-level action.
-- Cross-platform engine combining a React frontend, Node.js backend, and Python daemon
-- LLM-based intent parsing translating natural language and speech into system commands
-- Webhook-driven architecture syncing local state with a cloud-hosted MongoDB in real time
-
-<br>
 
 ## 🐍 Contribution Snake
 
@@ -124,21 +79,6 @@ A local AI execution engine that turns "hey, do this" into an actual OS-level ac
 
 <br>
 
-## 🏅 Achievements
-
-- 🥇 Rank **606 / 54,366** — Smart Interviews Coding Platform
-- 💎 **CodeChef Diamond Badge** — 473-day streak
-- ⭐ **5-Star** HackerRank Problem Solver
-- 🏆 Shortlisted — **Smart India Hackathon 2025** (institutional level)
-- 💰 **₹10,000** INSPIRE Award–MANAK grant for an original science project
-
-## 📚 Certifications &nbsp;&amp;&nbsp; 🎓 Education
-
-| Certificate | Issuer | Date |
-|:---|:---|:---|
-| OCI Data Science Certification | Oracle | Oct 2025 |
-| React (Basic) | HackerRank | Feb 2026 |
-| Tableau Certification | Udemy | Jun 2024 |
 
 **B.Tech, Computer Science (Data Science)** — VNR VJIET &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA **9.33**
 
