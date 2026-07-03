@@ -103,8 +103,6 @@ A local AI execution engine that turns "hey, do this" into an actual OS-level ac
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VISHNUGATTU/VISHNUGATTU/output/github-contribution-grid-snake.svg" />
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/VISHNUGATTU/VISHNUGATTU/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-<sub>⚙️ Needs a one-time setup — see the included <code>snake.yml</code> workflow and the setup notes below</sub>
 </div>
 
 <br>
