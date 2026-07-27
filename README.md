@@ -1,106 +1,89 @@
+# 👨‍💻 Vishnu Phani Gattu | Full-Stack Developer & AI Enthusiast
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World!%20I'm%20Vishnu&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Python%20Automation%20Architect%20%7C%20Data%20Science%20Undergrad&descAlignY=55&descAlign=50" />
+</div>
 
-![Nature-Tech Header](https://capsule-render.vercel.app/api?type=waving&color=0:3F5D41,50:66A182,100:FFE66D&height=220&section=header&text=VISHNU%20PHANI%20GATTU&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Nurturing%20the%20Digital%20Ecosystem%F0%9F%8C%B1&descAlignY=65)
+### 🖥️ System.out.println("About Me");
+> `> user.getBio()`
+* 🎓 B.Tech - CSE (Data Science) student at VNR VJIET (2023-2027).
+* 🚀 Building robust web applications with the MERN stack and integrating intelligent Python-based automated systems.
+* 🤖 Architecting local AI orchestration tools and execution engines that bridge natural language with system-level OS commands.
+* 📈 Passionate about technical analysis and price action trading in financial markets, often exploring where data science meets market trends.
+* 🎨 Focused on crafting high-quality, professional user interfaces—incorporating elements like glassmorphism, 3D animations, and sleek terminal-style aesthetics.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=66A182&center=true&vCenter=true&width=650&lines=Rooted+in+Data+Science;Branching+into+ML+%26+Full+Stack;Nurturing+Ideas+into+Solutions;BioSync+AI.+%F0%9F%8C%B1" alt="Typing SVG" />
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gattuvishnuphani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuphani-gattu-0a2881294/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VISHNUGATTU)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/VishnuSharma19/)
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  
+**Languages:** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Web Development:** <br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & ML Tools:** <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Data Visualization:** <br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 </div>
 
-<br>
+---
 
-## 🧑‍💻 About Me
-
-I'm a final-year B.Tech student (CSE – Data Science) at VNR VJIET who'd rather build a thing than just talk about it. That habit has turned into **2 filed patent applications**, three AI/full-stack projects handling real user load, and a CodeChef streak I'm too stubborn to break. I like solving problems people don't usually notice — like water leaks hiding behind walls, or attendance sheets nobody actually trusts.
-
-- 🔭 Currently building **BioSync AI** — an AI health platform that reads your food choices better than a rushed nutritionist
-- 📜 Co-inventor on **2 Indian patent applications** spanning IoT and Computer Vision
-- 🌱 Currently going deeper into agentic AI and LLM-based systems
-- 📫 Reach me at **gattuvishnuphani@gmail.com**
-
+### 📂 Featured Projects
 <details>
-<summary>⚡ A few fun facts (click to expand)</summary>
-<br>
-
-- 🐍 Currently on a **473-day** CodeChef streak — missing a day is not really an option anymore
-- 🎮 Won 1st place in an Intra-College BGMI Tournament at VNR VJIET
-- 🏏 Also won 1st place in an Inter-School Cricket Tournament back in school
-- 🎬 Edits videos for fun, usually as a very productive way to avoid debugging
-- 🧠 Completed an Agentic AI workshop by TCS and an IoT program by IIIT Hyderabad
-- 🎧 Coordinated a TCS recruitment drive for 187 candidates and led workshops for a 79-member club
-
+  <summary><b>VisOra - AI Smart Attendance System</b></summary>
+  
+  * An AI-powered platform utilizing the MERN stack and Python to automate attendance tracking via high-accuracy facial recognition.
+  * Integrates OpenCV and InsightFace to process real-time imaging with scalable face embedding comparisons, supporting over 6,000 active users.
 </details>
 
-<br>
+<details>
+  <summary><b>Nexus AI - Local OS Automation Engine</b></summary>
+  
+  * A cross-platform execution engine blending a React frontend, Node.js backend, and a Python daemon[cite: 1].
+  * Features LLM-based intent parsing to accurately translate natural language text and speech commands into complex local OS system subprocesses[cite: 1].
+</details>
 
-## 🛠️ Tech Stack
+<details>
+  <summary><b>BioSync AI - Personalized Health Platform</b></summary>
+  
+  * Processes over 100 food queries per session to provide nutritional insights mapped to user biological profiles[cite: 1].
+  * Leverages React Native, Express, MongoDB, and Python, paired with an LLM for >90% high-confidence evaluations and dietary mitigations[cite: 1].
+</details>
 
+---
+
+### 🏆 Achievements & Patents
+* **Patents:** Co-inventor of two published Indian Patents—*VisOra* (AI Attendance System) and *DripSense* (IoT-based hidden water leakage detection).
+* **Competitive Programming:** Earned a Diamond Badge on CodeChef (473-day streak) and achieved a 5-Star Rating in Problem Solving on HackerRank.
+* **Hackathons:** Shortlisted at the institutional level for the Smart India Hackathon (SIH) 2025 based on full-stack problem-solving capabilities.
+
+---
+
+### ⚡ Execute Connection
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,c,react,nodejs,express,flask,html,css,tensorflow,opencv,sklearn,mongodb,mysql,git,github,postman,vscode,pycharm&perline=10)](https://skillicons.dev)
-
-*Also comfortable with NumPy, Pandas, Tableau &amp; Power BI*
-
+  <a href="mailto:gattuvishnuphani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/vishnuphani-gattu-0a2881294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-<br>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VISHNUGATTU/VISHNUGATTU/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VISHNUGATTU/VISHNUGATTU/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/VISHNUGATTU/VISHNUGATTU/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</div>
-
-<br>
-
-## 📈 Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUGATTU&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VISHNUGATTU&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VISHNUGATTU&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=VISHNUGATTU&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-
-**B.Tech, Computer Science (Data Science)** — VNR VJIET &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA **9.33**
-
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuphani-gattu-0a2881294/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gattuvishnuphani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHNUGATTU)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VishnuSharma19/)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=VISHNUGATTU&style=for-the-badge&color=FC466B" alt="Profile Views"/>
-
-<br><br>
-
-*"Debugging is just being a detective in a case where you're also the culprit."*
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3F5EFB,100:FC466B&height=120&section=footer)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VISHNUGATTU&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Vishnu's GitHub Stats"
+  />
+</p>
