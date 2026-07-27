@@ -82,8 +82,5 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VISHNUGATTU&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Vishnu's GitHub Stats"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHNUGATTU&layout=compact&theme=tokyonight" />
 </p>
